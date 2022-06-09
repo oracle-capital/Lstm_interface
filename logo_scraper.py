@@ -1,7 +1,5 @@
-from matplotlib import ticker
 import requests
 from bs4 import BeautifulSoup
-import os
 
 def get_logo(ticker):
     print(f'from here {ticker}')
