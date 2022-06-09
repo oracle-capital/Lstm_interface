@@ -6,3 +6,4 @@ bs4
 plotly
 sklearn
 keras
+tensorflow
