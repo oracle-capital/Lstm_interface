@@ -27,7 +27,6 @@ stocks = ipy.get_stocks(country='united states')
 
 stocks.set_index("name", inplace = True)
 ticker =  stocks.loc[dropdown,'symbol']
-st.write(ticker)
 
 url = get_logo(ticker)
 url = str(url)
