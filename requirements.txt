@@ -1,0 +1,9 @@
+investpy
+pandas
+requests
+streamlit
+bs4
+plotly
+sklearn
+yfinance
+scipy
